@@ -7,3 +7,6 @@ Catcher now has an input that resets the catcher. Higher puzzle Potential!
 
 # ball_reflector
 128 units wide panels designed to reflect High Energy Pellets accurately. No more headaches from HEPs going off-center.
+
+# hep ring
+HEP Pellet Detector. Comes with toggle mode and timed mode variants
